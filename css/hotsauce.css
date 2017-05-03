@@ -7,11 +7,7 @@ header {
   line-height: 30px;
 }
 
-/*header .intro-heading {
-  font-size: 50px;
-  line-height: 45px;
-}*/
-
 footer {
-  background-color: #f7f7f7;
+  background-color: #ededed;
+  padding: 15px 0;
 }
